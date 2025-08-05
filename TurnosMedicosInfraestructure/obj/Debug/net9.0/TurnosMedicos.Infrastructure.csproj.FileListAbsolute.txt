@@ -1,0 +1,17 @@
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Infrastructure.deps.json
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Infrastructure.runtimeconfig.json
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Infrastructure.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Infrastructure.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Core.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\bin\Debug\net9.0\TurnosMedicos.Core.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.AssemblyInfo.cs
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMe.3D9DB997.Up2Date
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\refint\TurnosMedicos.Infrastructure.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\TurnosMedicos.Infrastructure.genruntimeconfig.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicosInfraestructure\obj\Debug\net9.0\ref\TurnosMedicos.Infrastructure.dll

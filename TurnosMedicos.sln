@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnosMedicos.API", "TurnosMedicos.API\TurnosMedicos.API.csproj", "{86C5DBFD-A9B4-41CB-A972-B4598445970D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnosMedicos.Core", "TurnosMedicos.Core\TurnosMedicos.Core.csproj", "{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnosMedicos.Application", "TurnosMedicos.Application\TurnosMedicos.Application.csproj", "{4617535E-2796-44B7-8D3A-52BBA73FD5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnosMedicos.Infrastructure", "TurnosMedicosInfraestructure\TurnosMedicos.Infrastructure.csproj", "{4E25C2F0-057F-4711-986E-5224AD72839F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C5DBFD-A9B4-41CB-A972-B4598445970D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C5DBFD-A9B4-41CB-A972-B4598445970D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C5DBFD-A9B4-41CB-A972-B4598445970D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C5DBFD-A9B4-41CB-A972-B4598445970D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4617535E-2796-44B7-8D3A-52BBA73FD5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4617535E-2796-44B7-8D3A-52BBA73FD5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4617535E-2796-44B7-8D3A-52BBA73FD5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4617535E-2796-44B7-8D3A-52BBA73FD5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E25C2F0-057F-4711-986E-5224AD72839F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E25C2F0-057F-4711-986E-5224AD72839F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E25C2F0-057F-4711-986E-5224AD72839F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E25C2F0-057F-4711-986E-5224AD72839F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D73EF01-9387-4F5B-A912-4218B7B4C06E}
+	EndGlobalSection
+EndGlobal

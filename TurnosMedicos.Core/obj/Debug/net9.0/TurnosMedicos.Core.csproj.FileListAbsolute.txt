@@ -1,0 +1,11 @@
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\bin\Debug\net9.0\TurnosMedicos.Core.deps.json
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\bin\Debug\net9.0\TurnosMedicos.Core.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\bin\Debug\net9.0\TurnosMedicos.Core.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.AssemblyInfo.cs
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\refint\TurnosMedicos.Core.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\TurnosMedicos.Core.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Core\obj\Debug\net9.0\ref\TurnosMedicos.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Application.deps.json
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Application.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Application.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Core.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Infrastructure.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Core.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\bin\Debug\net9.0\TurnosMedicos.Infrastructure.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.AssemblyInfo.cs
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMe.DA0D8B9B.Up2Date
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\refint\TurnosMedicos.Application.dll
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\TurnosMedicos.Application.pdb
+C:\Users\CFO Tech\Desktop\Nueva carpeta\TurnosMedicos\TurnosMedicos.Application\obj\Debug\net9.0\ref\TurnosMedicos.Application.dll

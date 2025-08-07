@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.application\\service\\specialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|solutionrelative:turnosmedicos.application\\service\\specialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.application\\interfaces\\ispecialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|solutionrelative:turnosmedicos.application\\interfaces\\ispecialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.application\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +27,40 @@
       "RelativeMoniker": "D:0:0:{4617535E-2796-44B7-8D3A-52BBA73FD5F4}|TurnosMedicos.Application\\TurnosMedicos.Application.csproj|solutionrelative:turnosmedicos.application\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicosinfraestructure\\repositories\\specialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|solutionrelative:turnosmedicosinfraestructure\\repositories\\specialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicosinfraestructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|solutionrelative:turnosmedicosinfraestructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\interfaces\\ispecialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\interfaces\\ispecialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86C5DBFD-A9B4-41CB-A972-B4598445970D}|TurnosMedicos.API\\TurnosMedicos.API.csproj|solutionrelative:turnosmedicos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicos.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D7EB2E-CF82-4045-8E78-9CD559C76F53}|TurnosMedicos.Core\\TurnosMedicos.Core.csproj|solutionrelative:turnosmedicos.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|c:\\users\\cfo tech\\desktop\\nueva carpeta\\turnosmedicos\\turnosmedicosinfraestructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E25C2F0-057F-4711-986E-5224AD72839F}|TurnosMedicosInfraestructure\\TurnosMedicos.Infrastructure.csproj|solutionrelative:turnosmedicosinfraestructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +110,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TurnosMedicos.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\appsettings.json",
-              "RelativeToolTip": "TurnosMedicos.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T18:54:01.714Z",
+              "DocumentIndex": 0,
+              "Title": "SpecialtyController.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\SpecialtyController.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.API\\Controllers\\SpecialtyController.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\SpecialtyController.cs",
+              "RelativeToolTip": "TurnosMedicos.API\\Controllers\\SpecialtyController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:15:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialtyService.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\SpecialtyService.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Service\\SpecialtyService.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\SpecialtyService.cs",
+              "RelativeToolTip": "TurnosMedicos.Application\\Service\\SpecialtyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:08:06.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISpecialtyService.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\ISpecialtyService.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Interfaces\\ISpecialtyService.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\ISpecialtyService.cs",
+              "RelativeToolTip": "TurnosMedicos.Application\\Interfaces\\ISpecialtyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:07:01.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SpecialtyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\SpecialtyRepository.cs",
+              "RelativeDocumentMoniker": "TurnosMedicosInfraestructure\\Repositories\\SpecialtyRepository.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\SpecialtyRepository.cs",
+              "RelativeToolTip": "TurnosMedicosInfraestructure\\Repositories\\SpecialtyRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:56:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\PatientService.cs",
+              "RelativeToolTip": "TurnosMedicos.Application\\Service\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:51:42.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:04:25.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "TurnosMedicos.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:01:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISpecialtyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Interfaces\\ISpecialtyRepository.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Core\\Interfaces\\ISpecialtyRepository.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Interfaces\\ISpecialtyRepository.cs",
+              "RelativeToolTip": "TurnosMedicos.Core\\Interfaces\\ISpecialtyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:53:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Specialty.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Core\\Models\\Specialty.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Specialty.cs",
+              "RelativeToolTip": "TurnosMedicos.Core\\Models\\Specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:48:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:36:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "TurnosMedicos.Core\\Models\\ApiResponse.cs",
@@ -99,51 +248,62 @@
               "RelativeToolTip": "TurnosMedicos.Core\\Models\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:04:56.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T15:04:56.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "TurnosMedicos.API\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "TurnosMedicos.API\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowGwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:01:16.912Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TurnosMedicos.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\appsettings.json",
+              "RelativeToolTip": "TurnosMedicos.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T18:54:01.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\PatientService.cs",
-              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Service\\PatientService.cs",
-              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Service\\PatientService.cs",
-              "RelativeToolTip": "TurnosMedicos.Application\\Service\\PatientService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:51:42.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IPatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Interfaces\\IPatientRepository.cs",
               "RelativeDocumentMoniker": "TurnosMedicos.Core\\Interfaces\\IPatientRepository.cs",
               "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Interfaces\\IPatientRepository.cs",
               "RelativeToolTip": "TurnosMedicos.Core\\Interfaces\\IPatientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T13:57:31.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Core\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Patient.cs",
+              "RelativeToolTip": "TurnosMedicos.Core\\Models\\Patient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:50:41.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "TurnosMedicos.Core\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Doctor.cs",
+              "RelativeToolTip": "TurnosMedicos.Core\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:48:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Core\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "TurnosMedicos.Core\\Models\\Appointment.cs",
@@ -151,12 +311,11 @@
               "RelativeToolTip": "TurnosMedicos.Core\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:48:38.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:48:38.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.API\\Program.cs",
               "RelativeDocumentMoniker": "TurnosMedicos.API\\Program.cs",
@@ -165,32 +324,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T13:02:20.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPatientService.cs",
-              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
-              "RelativeDocumentMoniker": "TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
-              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
-              "RelativeToolTip": "TurnosMedicos.Application\\Interfaces\\IPatientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:36:23.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PatientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
-              "RelativeDocumentMoniker": "TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
-              "ToolTip": "C:\\Users\\CFO Tech\\Desktop\\Nueva carpeta\\TurnosMedicos\\TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
-              "RelativeToolTip": "TurnosMedicosInfraestructure\\Repositories\\PatientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:04:25.064Z",
               "EditorCaption": ""
             }
           ]
